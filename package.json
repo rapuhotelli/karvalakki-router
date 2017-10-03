@@ -1,0 +1,22 @@
+{
+  "name": "karvalakki-router",
+  "version": "1.0.0",
+  "description": "A shit \"router\" for browserside javascript hacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapuhotelli/karvalakki-router.git"
+  },
+  "keywords": [
+    "browser",
+    "router",
+    "simple",
+    "stupid"
+  ],
+  "author": "rapuhotelli",
+  "license": "MIT",
+  "homepage": "https://github.com/rapuhotelli/karvalakki-router#readme"
+}
